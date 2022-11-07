@@ -1,5 +1,6 @@
 body{
   background-image: url('img/4005099_14660.jpg');
-  background-size: cover;
+  background-size: 1100px 1000px;
   background-repeat: no-repeat;
+  background-position: top;
 }

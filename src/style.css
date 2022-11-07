@@ -1,10 +1,8 @@
-#container{
-height: 800px;
-width: 50%;
-  background: url('img/4005099_14660.jpg');
-  background-size: cover;
-  background-position: center;
+.responsive {
+  width: 100%;
+  max-width: 850px;
+  height: auto;
+  display: block;
   margin-left: auto;
   margin-right: auto;
-
-}   
+}
